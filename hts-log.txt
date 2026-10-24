@@ -1,0 +1,11 @@
+HTTrack3.50-5 launched on Sat, 24 Oct 2026 09:40:48 at https://movixx.framer.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://movixx.framer.website/ -O1 "C:\My Web Sites\Movixx" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.50-5 mirror complete in 2 minutes 31 seconds : 114 links scanned, 113 files written (35247697 bytes overall) [29832898 bytes received at 197568 bytes/sec], 6070949 bytes transferred using HTTP compression in 15 files, ratio 8%, 5.7 requests per connection
+(No errors, 0 warnings, 0 messages)
